@@ -1,0 +1,3 @@
+KustomizeInfo = provider(
+    fields = ["bin"]
+)
